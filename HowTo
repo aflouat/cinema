@@ -1,0 +1,4 @@
+add new category
+POST localhost:/8080/categories {"name":"Action"}
+
+pour la cuche metier on utilise l'annotation service
